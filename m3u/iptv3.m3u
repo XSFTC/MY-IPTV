@@ -157,10 +157,6 @@ http://192.168.2.1:9527/rtp/233.50.201.73:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.202.33:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/纪实科教.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229419/110036300.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",纪实科教
 http://192.168.2.1:9527/rtp/233.50.202.34:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/快乐垂钓.png" group-title="专业",快乐垂钓
-http://192.168.2.1:9527/rtp/233.50.200.123:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/茶频道.png" group-title="专业",茶频道
-http://192.168.2.1:9527/rtp/233.50.200.124:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/第一财经.png" group-title="专业",第一财经
 http://192.168.2.1:9527/rtp/233.50.200.125:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东方财经.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229471/139134633.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方财经

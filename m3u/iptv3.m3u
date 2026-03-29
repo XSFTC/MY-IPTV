@@ -33,7 +33,7 @@ http://192.168.2.1:9527/rtp/233.50.201.124:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.200.133:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV16.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229307/70526246.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 奥林匹克
 http://192.168.2.1:9527/rtp/233.50.201.192:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV16-4K.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229331/74036079.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 奥林匹克 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV16.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229331/74036079.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 奥林匹克 4K
 http://192.168.2.1:9527/rtp/233.50.201.63:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV17.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229176/54864243.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村
 http://192.168.2.1:9527/rtp/233.50.200.113:5140?fcc=115.233.40.137:8027

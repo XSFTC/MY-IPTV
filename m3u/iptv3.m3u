@@ -171,7 +171,7 @@ http://192.168.2.1:9527/rtp/233.50.201.185:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.186:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生活时尚.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229277/72486909.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",生活时尚
 http://192.168.2.1:9527/rtp/233.50.201.187:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/欢笑剧场.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229240/72486906.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",欢笑剧场
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229240/72486906.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",多彩文体
 http://192.168.2.1:9527/rtp/233.50.201.189:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/都市剧场.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229244/72486950.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",都市剧场
 http://192.168.2.1:9527/rtp/233.50.201.190:5140?fcc=115.233.40.137:8027

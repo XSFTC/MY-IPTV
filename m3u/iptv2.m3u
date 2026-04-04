@@ -169,7 +169,7 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229285/72486834.smil
 rtsp://115.233.40.137/PLTV/88888913/224/3221229315/72486946.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生活时尚.png" group-title="专业",生活时尚
 rtsp://115.233.40.137/PLTV/88888913/224/3221229277/72486909.smil
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/欢笑剧场.png" group-title="专业",欢笑剧场
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="专业",多彩文体
 rtsp://115.233.40.137/PLTV/88888913/224/3221229240/72486906.smil
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/都市剧场.png" group-title="专业",都市剧场
 rtsp://115.233.40.137/PLTV/88888913/224/3221229244/72486950.smil
@@ -207,7 +207,7 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229456/131699760.smil
 rtsp://115.233.40.137/PLTV/88888913/224/3221229455/131699790.smil
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/四川卫视4K.png" group-title="4K",四川卫视 4K
 rtsp://115.233.40.137/PLTV/88888913/224/3221229470/136083195.smil
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/欢笑剧场4K.png" group-title="4K",欢笑剧场 4K
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="4K",多彩文体 4K
 http://192.168.2.1:9527/udp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="百视通纪实" tvg-name="百视通纪实" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="4K",BesTV-纪实
 http://192.168.2.1:9527/udp/233.50.200.182:5140

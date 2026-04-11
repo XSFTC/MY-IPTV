@@ -185,6 +185,10 @@ http://192.168.2.1:9527/rtp/233.50.202.27:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.202.28:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩广场舞.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229410/94611402.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩广场舞
 http://192.168.2.1:9527/rtp/233.50.202.29:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/环球旅游.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229415/103499735.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",环球旅游
+http://192.168.2.1:9527/rtp/233.50.202.31:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生态环境.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229458/133688507.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",生态环境
+http://192.168.2.1:9527/rtp/233.50.202.103:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="百视通纪实" tvg-name="百视通纪实" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业",BesTV-纪实
 http://192.168.2.1:9527/rtp/233.50.200.182:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="百视通少儿" tvg-name="百视通少儿" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业",BesTV-少儿

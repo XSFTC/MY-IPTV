@@ -183,6 +183,10 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229412/94611355.smil
 rtsp://115.233.40.137/PLTV/88888913/224/3221229411/94611457.smil
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩广场舞.png" group-title="专业",睛彩广场舞
 rtsp://115.233.40.137/PLTV/88888913/224/3221229410/94611402.smil
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/环球旅游.png" group-title="专业",环球旅游
+rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生态环境.png" group-title="专业",生态环境
+rtsp://115.233.41.137/PLTV/88888913/224/3221229458/133688507.smil
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/凤凰中文.png" group-title="卫视",凤凰中文
 rtsp://115.233.40.137/PLTV/88888913/224/3221229422/110077577.smil
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/凤凰资讯.png" group-title="卫视",凤凰资讯

@@ -75,6 +75,10 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229209/52584148.smil
 rtsp://115.233.40.137/PLTV/88888913/224/3221228982/10000100000000060000000004011299_0.smil
 #EXTINF:-1 tvg-id="温州新闻" tvg-name="温州新闻" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州新闻综合.png" group-title="本地",温州新闻综合
 rtsp://115.233.40.137/PLTV/88888913/224/3221228993/10000100000000060000000004199197_0.smil
+#EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州经济科技.png" group-title="本地",温州经济科技
+http://192.168.2.1:9527/rtp/233.50.202.23:5140
+#EXTINF:-1 tvg-id="温州都市生活" tvg-name="温州都市生活" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州都市生活.png" group-title="本地",温州都市生活
+http://192.168.2.1:9527/rtp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="衢州新闻" tvg-name="衢州新闻" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/衢州新闻综合.png" group-title="本地",衢州新闻综合
 http://192.168.2.1:9527/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/衢州公共.png" group-title="本地",衢州公共
@@ -175,14 +179,6 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229240/72486906.smil
 rtsp://115.233.40.137/PLTV/88888913/224/3221229244/72486950.smil
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/法治天地.png" group-title="专业",法治天地
 rtsp://115.233.40.137/PLTV/88888913/224/3221229323/72486984.smil
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩竞技.png" group-title="专业",睛彩竞技
-rtsp://115.233.40.137/PLTV/88888913/224/3221229408/94611403.smil
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩篮球.png" group-title="专业",睛彩篮球
-rtsp://115.233.40.137/PLTV/88888913/224/3221229412/94611355.smil
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩青少.png" group-title="专业",睛彩青少
-rtsp://115.233.40.137/PLTV/88888913/224/3221229411/94611457.smil
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩广场舞.png" group-title="专业",睛彩广场舞
-rtsp://115.233.40.137/PLTV/88888913/224/3221229410/94611402.smil
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/环球旅游.png" group-title="专业",环球旅游
 rtsp://115.233.41.137/PLTV/88888913/224/3221229415/103499735.smil
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生态环境.png" group-title="专业",生态环境

@@ -75,6 +75,10 @@ http://192.168.2.1:9527/rtp/233.50.201.180:5140
 http://192.168.2.1:9527/rtp/233.50.201.156:5140
 #EXTINF:-1 tvg-id="温州新闻" tvg-name="温州新闻" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州新闻综合.png" group-title="本地",温州新闻综合
 http://192.168.2.1:9527/rtp/233.50.201.87:5140
+#EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州经济科技.png" group-title="本地",温州经济科技
+http://192.168.2.1:9527/rtp/233.50.202.23:5140
+#EXTINF:-1 tvg-id="温州都市生活" tvg-name="温州都市生活" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州都市生活.png" group-title="本地",温州都市生活
+http://192.168.2.1:9527/rtp/233.50.202.24:5140
 #EXTINF:-1 tvg-id="衢州新闻" tvg-name="衢州新闻" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/衢州新闻综合.png" group-title="本地",衢州新闻综合
 http://192.168.2.1:9527/rtp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/衢州公共.png" group-title="本地",衢州公共
@@ -175,14 +179,6 @@ http://192.168.2.1:9527/rtp/233.50.201.189:5140
 http://192.168.2.1:9527/rtp/233.50.201.190:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/法治天地.png" group-title="专业",法治天地
 http://192.168.2.1:9527/rtp/233.50.201.191:5140
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩竞技.png" group-title="专业",睛彩竞技
-http://192.168.2.1:9527/rtp/233.50.202.26:5140
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩篮球.png" group-title="专业",睛彩篮球
-http://192.168.2.1:9527/rtp/233.50.202.27:5140
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩青少.png" group-title="专业",睛彩青少
-http://192.168.2.1:9527/rtp/233.50.202.28:5140
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/睛彩广场舞.png" group-title="专业",睛彩广场舞
-http://192.168.2.1:9527/rtp/233.50.202.29:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/环球旅游.png" group-title="专业",环球旅游
 http://192.168.2.1:9527/rtp/233.50.202.31:5140
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生态环境.png" group-title="专业",生态环境

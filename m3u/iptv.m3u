@@ -159,6 +159,8 @@ http://192.168.2.1:9527/rtp/233.50.201.73:5140
 http://192.168.2.1:9527/rtp/233.50.202.33:5140
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/纪实科教.png" group-title="专业",纪实科教
 http://192.168.2.1:9527/rtp/233.50.202.34:5140
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/快乐垂钓.png" group-title="专业",快乐垂钓
+http://192.168.2.1:9527/rtp/233.50.201.109:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/第一财经.png" group-title="专业",第一财经
 http://192.168.2.1:9527/rtp/233.50.200.125:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东方财经.png" group-title="专业",东方财经
@@ -179,10 +181,6 @@ http://192.168.2.1:9527/rtp/233.50.201.189:5140
 http://192.168.2.1:9527/rtp/233.50.201.190:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/法治天地.png" group-title="专业",法治天地
 http://192.168.2.1:9527/rtp/233.50.201.191:5140
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/环球旅游.png" group-title="专业",环球旅游
-http://192.168.2.1:9527/rtp/233.50.202.31:5140
-#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生态环境.png" group-title="专业",生态环境
-http://192.168.2.1:9527/rtp/233.50.202.103:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/凤凰中文.png" group-title="卫视",凤凰中文
 http://192.168.2.1:9527/rtp/233.50.202.35:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/凤凰资讯.png" group-title="卫视",凤凰资讯

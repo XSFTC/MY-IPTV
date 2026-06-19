@@ -160,7 +160,7 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229420/110036417.smil
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/纪实科教.png" group-title="专业",纪实科教
 rtsp://115.233.40.137/PLTV/88888913/224/3221229419/110036300.smil
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/快乐垂钓.png" group-title="专业",快乐垂钓
-http://192.168.2.1:9527/rtp/233.50.201.109:5140
+rtsp://115.233.41.137/PLTV/88888913/224/3221229491/148775761.smil
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/第一财经.png" group-title="专业",第一财经
 http://192.168.2.1:9527/udp/233.50.200.125:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东方财经.png" group-title="专业",东方财经

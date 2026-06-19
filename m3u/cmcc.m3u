@@ -57,16 +57,12 @@ http://ott.mobaibox.com/PLTV/4/224/3221228613/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/南京新闻综合.png" group-title="本地",南京新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/南京影视.png" group-title="本地",南京影视
-http://ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
 #EXTINF:-1 tvg-id="南京十八生活" tvg-name="南京十八生活" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/南京十八·生活.png" group-title="本地",南京十八生活
 http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
 #EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/南京教科.png" group-title="本地",南京教科
 http://ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
 #EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/南京文旅纪录.png" group-title="本地",南京文旅纪录
 http://ott.mobaibox.com/PLTV/4/224/3221227722/index.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/南京少儿.png" group-title="本地",南京少儿
-http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/浙江卫视4K.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东方卫视4K.png" group-title="卫视",东方卫视

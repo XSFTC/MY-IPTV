@@ -77,25 +77,25 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236328/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235441/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/衢州公共.png" group-title="本地",衢州公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="金华新闻综合" tvg-name="金华新闻综合" tvg-logo="" group-title="本地",金华新闻综合
+#EXTINF:-1 tvg-id="金华新闻综合" tvg-name="金华新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/金华新闻综合.png" group-title="本地",金华新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236601/1082207352.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="金华教育科技" tvg-name="金华教育科技" tvg-logo="" group-title="本地",金华教育科技
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236660/1082207305.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="金华公共" tvg-name="金华公共" tvg-logo="" group-title="本地",金华公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236605/1082207617.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" tvg-logo="" group-title="本地",丽水新闻综合
+#EXTINF:-1 tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/丽水新闻综合.png" group-title="本地",丽水新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="丽水经济生活" tvg-name="丽水经济生活" tvg-logo="" group-title="本地",丽水经济生活
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="丽水文化休闲" tvg-name="丽水文化休闲" tvg-logo="" group-title="本地",丽水文化休闲
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="" group-title="本地",嘉兴新闻综合
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/嘉兴新闻综合.png" group-title="本地",嘉兴新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="嘉兴文化" tvg-name="嘉兴文化" tvg-logo="" group-title="本地",嘉兴文化
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="嘉兴公共" tvg-name="嘉兴公共" tvg-logo="" group-title="本地",嘉兴公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="湖州新闻综合" tvg-name="湖州新闻综合" tvg-logo="" group-title="本地",湖州新闻综合
+#EXTINF:-1 tvg-id="湖州新闻综合" tvg-name="湖州新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/湖州新闻综合.png" group-title="本地",湖州新闻综合
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="湖州文化娱乐" tvg-name="湖州文化娱乐" tvg-logo="" group-title="本地",湖州文化娱乐
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/1/index.m3u8?fmt=ts2hls

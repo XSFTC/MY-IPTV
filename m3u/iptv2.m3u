@@ -61,8 +61,6 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229156/52579500.smil
 rtsp://115.233.40.137/PLTV/88888913/224/3221229142/52579609.smil
 #EXTINF:-1 tvg-id="杭州青少体育" tvg-name="杭州青少体育" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/杭州青少·体育.png" group-title="本地",杭州青少·体育
 rtsp://115.233.40.137/PLTV/88888913/224/3221229217/57567111.smil
-#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/杭州导视.png" group-title="本地",杭州导视
-rtsp://115.233.40.137/PLTV/88888913/224/3221229263/52579543.smil
 #EXTINF:-1 tvg-id="宁波一套" tvg-name="宁波一套" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/宁波新闻综合.png" group-title="本地",宁波新闻综合
 rtsp://115.233.40.137/PLTV/88888913/224/3221229199/10000100000000060000000005105223_0.smil
 #EXTINF:-1 tvg-id="宁波二套" tvg-name="宁波二套" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/宁波经济生活.png" group-title="本地",宁波经济生活

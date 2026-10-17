@@ -37,7 +37,7 @@ http://192.168.2.1:9527/rtp/233.50.201.192:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.63:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV17.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229176/54864243.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村
 http://192.168.2.1:9527/rtp/233.50.200.113:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/浙江卫视4K.png" group-title="本地" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228012/10000100000000060000000000794032_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/浙江卫视4K.png" group-title="本地" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229473/136086103.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视
 http://192.168.2.1:9527/rtp/233.50.202.104:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/钱江都市.png" group-title="本地" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229041/10000100000000060000000004799139_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",钱江都市
 http://192.168.2.1:9527/rtp/233.50.201.132:5140?fcc=115.233.40.137:8027

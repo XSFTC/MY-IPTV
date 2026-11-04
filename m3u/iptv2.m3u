@@ -22,7 +22,7 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221228112/10000100000000060000000002633
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV10.png" group-title="央视",CCTV-10 科教
 rtsp://115.233.40.137/PLTV/88888913/224/3221228131/10000100000000060000000002633383_0.smil
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://192.168.2.1:9527/udp/233.50.200.132:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229418/106680196.smil
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
 rtsp://115.233.40.137/PLTV/88888913/224/3221228130/10000100000000060000000002633382_0.smil
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
@@ -30,11 +30,11 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229154/52628615.smil
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
 rtsp://115.233.40.137/PLTV/88888913/224/3221228088/10000100000000060000000002633381_0.smil
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://192.168.2.1:9527/udp/233.50.200.133:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229417/106680096.smil
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 rtsp://115.233.40.137/PLTV/88888913/224/3221229307/70526246.smil
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://192.168.2.1:9527/udp/233.50.200.113:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229276/83511377.smil
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/浙江卫视.png" group-title="本地",浙江卫视
 rtsp://115.233.40.137/PLTV/88888913/224/3221228012/10000100000000060000000000794032_0.smil
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/钱江都市.png" group-title="本地",钱江都市
@@ -102,7 +102,7 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221228068/10000100000000060000000002242
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 rtsp://115.233.40.137/PLTV/88888913/224/3221229042/10000100000000060000000004835836_0.smil
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://192.168.2.1:9527/udp/233.50.200.164:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229434/112299629.smil
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/广东卫视.png" group-title="卫视",广东卫视
 rtsp://115.233.40.137/PLTV/88888913/224/3221228011/10000100000000060000000000794034_0.smil
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/深圳卫视.png" group-title="卫视",深圳卫视
@@ -122,15 +122,15 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229061/10000100000000060000000004835
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/贵州卫视.png" group-title="卫视",贵州卫视
 rtsp://115.233.40.137/PLTV/88888913/224/3221229044/10000100000000060000000004835835_0.smil
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/云南卫视.png" group-title="卫视",云南卫视
-http://192.168.2.1:9527/udp/233.50.200.115:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229325/83511287.smil
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/海南卫视.png" group-title="卫视",海南卫视
-http://192.168.2.1:9527/udp/233.50.200.165:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229432/112299684.smil
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://192.168.2.1:9527/udp/233.50.200.175:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229444/112299854.smil
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/广西卫视.png" group-title="卫视",广西卫视
-http://192.168.2.1:9527/udp/233.50.200.136:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229425/112299443.smil
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://192.168.2.1:9527/udp/233.50.200.163:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229431/112299778.smil
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 rtsp://115.233.40.137/PLTV/88888913/224/3221229462/134307486.smil
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/西藏卫视.png" group-title="卫视",西藏卫视
@@ -148,37 +148,37 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229147/10000100000000060000000004969
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/青海卫视.png" group-title="卫视",青海卫视
 rtsp://115.233.40.137/PLTV/88888913/224/3221227765/10000100000000060000000000304132_0.smil
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CETV1.png" group-title="卫视",CETV-1
-http://192.168.2.1:9527/udp/233.50.200.169:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229441/112299843.smil
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CETV4.png" group-title="卫视",CETV-4
-http://192.168.2.1:9527/udp/233.50.200.174:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229437/112299823.smil
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/金鹰卡通.png" group-title="专业",金鹰卡通
 rtsp://115.233.40.137/PLTV/88888913/224/3221229202/59229692.smil
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/快乐垂钓.png" group-title="专业",快乐垂钓
+rtsp://115.233.41.137/PLTV/88888913/224/3221229491/148775761.smil
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/卡酷少儿.png" group-title="专业",卡酷少儿
 rtsp://115.233.40.137/PLTV/88888913/224/3221229420/110036417.smil
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/纪实科教.png" group-title="专业",纪实科教
 rtsp://115.233.40.137/PLTV/88888913/224/3221229419/110036300.smil
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/快乐垂钓.png" group-title="专业",快乐垂钓
-rtsp://115.233.41.137/PLTV/88888913/224/3221229491/148775761.smil
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/第一财经.png" group-title="专业",第一财经
-http://192.168.2.1:9527/udp/233.50.200.125:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229337/83511403.smil
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东方财经.png" group-title="专业",东方财经
-rtsp://115.233.40.137/PLTV/88888913/224/3221229471/139134633.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221229443/112299972.smil
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/游戏风云.png" group-title="专业",游戏风云
-rtsp://115.233.40.137/PLTV/88888913/224/3221229289/72488480.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221228451/10000100000000060000000003667174_0.smil
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/动漫秀场.png" group-title="专业",动漫秀场
-rtsp://115.233.40.137/PLTV/88888913/224/3221229236/72486907.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221228460/10000100000000060000000003667176_0.smil
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/乐游.png" group-title="专业",乐游
-rtsp://115.233.40.137/PLTV/88888913/224/3221229285/72486834.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221228408/10000100000000060000000003667135_0.smil
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/金色学堂.png" group-title="专业",金色学堂
-rtsp://115.233.40.137/PLTV/88888913/224/3221229315/72486946.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221229391/83511430.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生活时尚.png" group-title="专业",生活时尚
-rtsp://115.233.40.137/PLTV/88888913/224/3221229277/72486909.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221228455/10000100000000060000000003667173_0.smil
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="专业",多彩文体
-rtsp://115.233.40.137/PLTV/88888913/224/3221229240/72486906.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221228413/10000100000000060000000003667136_0.smil
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/都市剧场.png" group-title="专业",都市剧场
-rtsp://115.233.40.137/PLTV/88888913/224/3221229244/72486950.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221228423/10000100000000060000000003667177_0.smil
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/法治天地.png" group-title="专业",法治天地
-rtsp://115.233.40.137/PLTV/88888913/224/3221229323/72486984.smil
+rtsp://115.233.40.137/PLTV/88888888/224/3221229387/83511424.smil
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/凤凰中文.png" group-title="卫视",凤凰中文
 rtsp://115.233.40.137/PLTV/88888913/224/3221229422/110077577.smil
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/凤凰资讯.png" group-title="卫视",凤凰资讯
@@ -204,10 +204,10 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221229455/131699790.smil
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/四川卫视4K.png" group-title="4K",四川卫视 4K
 rtsp://115.233.40.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="4K",多彩文体 4K
-http://192.168.2.1:9527/udp/233.50.200.52:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229426/111451199.smil
 #EXTINF:-1 tvg-id="百视通纪实" tvg-name="百视通纪实" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="4K",BesTV-纪实
-http://192.168.2.1:9527/udp/233.50.200.182:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229447/112299986.smil
 #EXTINF:-1 tvg-id="百视通少儿" tvg-name="百视通少儿" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="4K",BesTV-少儿
-http://192.168.2.1:9527/udp/233.50.200.183:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229430/112299913.smil
 #EXTINF:-1 tvg-id="百视通视界" tvg-name="百视通视界" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="4K",BesTV-视界
-http://192.168.2.1:9527/udp/233.50.200.185:5140
+rtsp://115.233.40.137/PLTV/88888888/224/3221229446/112299869.smil

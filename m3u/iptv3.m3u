@@ -21,7 +21,7 @@ http://192.168.2.1:9527/rtp/233.50.201.199:5140?fcc=115.233.40.137:8027&fec=5139
 http://192.168.2.1:9527/rtp/233.50.201.121:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV10.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228131/10000100000000060000000002633383_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-10 科教
 http://192.168.2.1:9527/rtp/233.50.201.122:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV11.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227777/10000100000000060000000000304164_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV11.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229418/106680196.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-11 戏曲
 http://192.168.2.1:9527/rtp/233.50.200.132:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV12.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228130/10000100000000060000000002633382_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-12 社会与法
 http://192.168.2.1:9527/rtp/233.50.201.123:5140?fcc=115.233.40.137:8027
@@ -29,13 +29,13 @@ http://192.168.2.1:9527/rtp/233.50.201.123:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.246:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV14.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228088/10000100000000060000000002633381_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-14 少儿
 http://192.168.2.1:9527/rtp/233.50.201.124:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV15.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227993/10000100000000060000000000794054_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-15 音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV15.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229417/106680096.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-15 音乐
 http://192.168.2.1:9527/rtp/233.50.200.133:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV16.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229307/70526246.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 奥林匹克
 http://192.168.2.1:9527/rtp/233.50.201.192:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV16.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229331/74036079.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-16 奥林匹克 4K
 http://192.168.2.1:9527/rtp/233.50.201.63:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV17.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229176/54864243.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV17.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229276/83511377.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村
 http://192.168.2.1:9527/rtp/233.50.200.113:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/浙江卫视4K.png" group-title="本地" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229473/136086103.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",浙江卫视
 http://192.168.2.1:9527/rtp/233.50.202.104:5140?fcc=115.233.40.137:8027
@@ -75,7 +75,7 @@ http://192.168.2.1:9527/rtp/233.50.201.180:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.156:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="温州新闻" tvg-name="温州新闻" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州新闻综合.png" group-title="本地" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228993/10000100000000060000000004199197_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",温州新闻综合
 http://192.168.2.1:9527/rtp/233.50.201.87:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州经济科技.png" group-title="本地",温州经济科技
+#EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州经济科技.png" group-title="本地" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229476/147415727.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",温州经济科技
 http://192.168.2.1:9527/rtp/233.50.202.23:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="温州都市生活" tvg-name="温州都市生活" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州都市生活.png" group-title="本地",温州都市生活
 http://192.168.2.1:9527/rtp/233.50.202.24:5140?fcc=115.233.40.137:8027
@@ -109,7 +109,7 @@ http://192.168.2.1:9527/rtp/233.50.201.140:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.115:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/辽宁卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229042/10000100000000060000000004835836_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视
 http://192.168.2.1:9527/rtp/233.50.201.141:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/吉林卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227802/10000100000000060000000000304236_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/吉林卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229434/112299629.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视
 http://192.168.2.1:9527/rtp/233.50.200.164:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229040/10000100000000060000000004835831_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东南卫视
 http://192.168.2.1:9527/rtp/233.50.201.146:5140?fcc=115.233.40.137:8027
@@ -123,15 +123,15 @@ http://192.168.2.1:9527/rtp/233.50.201.145:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.143:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/贵州卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229044/10000100000000060000000004835835_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视
 http://192.168.2.1:9527/rtp/233.50.201.142:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/云南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227830/10000100000000060000000000304238_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云南卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/云南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229325/83511287.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云南卫视
 http://192.168.2.1:9527/rtp/233.50.200.115:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/海南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227803/10000100000000060000000000304212_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/海南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229432/112299684.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视
 http://192.168.2.1:9527/rtp/233.50.200.165:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/三沙卫视.png" group-title="卫视",三沙卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/三沙卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229444/112299854.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",三沙卫视
 http://192.168.2.1:9527/rtp/233.50.200.175:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/广西卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227840/10000100000000060000000000304250_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/广西卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229425/112299443.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广西卫视
 http://192.168.2.1:9527/rtp/233.50.200.136:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/甘肃卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229052/10000100000000060000000004969230_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/甘肃卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229431/112299778.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
 http://192.168.2.1:9527/rtp/233.50.200.163:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/宁夏卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229462/134307486.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",宁夏卫视
 http://192.168.2.1:9527/rtp/233.50.202.45:5140?fcc=115.233.40.137:8027
@@ -149,43 +149,43 @@ http://192.168.2.1:9527/rtp/233.50.201.51:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.148:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/青海卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227765/10000100000000060000000000304132_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",青海卫视
 http://192.168.2.1:9527/rtp/233.50.201.65:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CETV1.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221227968/10000100000000060000000000789246_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV-1
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CETV1.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229441/112299843.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV-1
 http://192.168.2.1:9527/rtp/233.50.200.169:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CETV4.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229128/10000100000000060000000005781889_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV-4
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CETV4.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229437/112299823.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CETV-4
 http://192.168.2.1:9527/rtp/233.50.200.174:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/金鹰卡通.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229202/59229692.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰卡通
 http://192.168.2.1:9527/rtp/233.50.201.73:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/卡酷少儿.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229420/110036417.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",卡酷少儿
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/快乐垂钓.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.41.137/TVOD/88888913/224/3221229491/148775761.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",快乐垂钓
+http://192.168.2.1:9527/rtp/233.50.201.109:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/卡酷少儿.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229435/112299640.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",卡酷少儿
 http://192.168.2.1:9527/rtp/233.50.202.33:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/纪实科教.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229419/110036300.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",纪实科教
 http://192.168.2.1:9527/rtp/233.50.202.34:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/快乐垂钓.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.41.137/TVOD/88888913/224/3221229491/148775761.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",快乐垂钓
-http://192.168.2.1:9527/rtp/233.50.201.109:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/第一财经.png" group-title="专业",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/第一财经.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229337/83511403.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",第一财经
 http://192.168.2.1:9527/rtp/233.50.200.125:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东方财经.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229471/139134633.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东方财经.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229443/112299972.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方财经
 http://192.168.2.1:9527/rtp/233.50.201.128:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/游戏风云.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229289/72488480.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",游戏风云
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/游戏风云.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221228451/10000100000000060000000003667174_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",游戏风云
 http://192.168.2.1:9527/rtp/233.50.201.183:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/动漫秀场.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229236/72486907.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动漫秀场
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/动漫秀场.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221228460/10000100000000060000000003667176_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动漫秀场
 http://192.168.2.1:9527/rtp/233.50.201.184:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/乐游.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229285/72486834.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",乐游
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/乐游.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221228408/10000100000000060000000003667135_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",乐游
 http://192.168.2.1:9527/rtp/233.50.201.185:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/金色学堂.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229315/72486946.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/金色学堂.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229391/83511430.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金色学堂
 http://192.168.2.1:9527/rtp/233.50.201.186:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生活时尚.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229277/72486909.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/生活时尚.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221228455/10000100000000060000000003667173_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",生活时尚
 http://192.168.2.1:9527/rtp/233.50.201.187:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229240/72486906.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",多彩文体
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221228413/10000100000000060000000003667136_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",多彩文体
 http://192.168.2.1:9527/rtp/233.50.201.189:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/都市剧场.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229244/72486950.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/都市剧场.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221228423/10000100000000060000000003667177_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",都市剧场
 http://192.168.2.1:9527/rtp/233.50.201.190:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/法治天地.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229323/72486984.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/法治天地.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229387/83511424.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",法治天地
 http://192.168.2.1:9527/rtp/233.50.201.191:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="百视通纪实" tvg-name="百视通纪实" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业",BesTV-纪实
+#EXTINF:-1 tvg-id="百视通纪实" tvg-name="百视通纪实" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229447/112299986.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BesTV-纪实
 http://192.168.2.1:9527/rtp/233.50.200.182:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="百视通少儿" tvg-name="百视通少儿" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业",BesTV-少儿
+#EXTINF:-1 tvg-id="百视通少儿" tvg-name="百视通少儿" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229430/112299913.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BesTV-少儿
 http://192.168.2.1:9527/rtp/233.50.200.183:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="百视通视界" tvg-name="百视通视界" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业",BesTV-视界
+#EXTINF:-1 tvg-id="百视通视界" tvg-name="百视通视界" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="专业" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229446/112299869.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",BesTV-视界
 http://192.168.2.1:9527/rtp/233.50.200.185:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/凤凰中文.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229422/110077577.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
 http://192.168.2.1:9527/rtp/233.50.202.35:5140?fcc=115.233.40.137:8027

@@ -76,7 +76,7 @@ rtsp://115.233.40.137/PLTV/88888913/224/3221228993/10000100000000060000000004199
 #EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州经济科技.png" group-title="本地",温州经济科技
 rtsp://115.233.40.137/PLTV/88888913/224/3221229476/147415727.smil
 #EXTINF:-1 tvg-id="温州都市生活" tvg-name="温州都市生活" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/温州都市生活.png" group-title="本地",温州都市生活
-http://192.168.2.1:9527/rtp/233.50.202.24:5140
+rtsp://115.233.40.137/PLTV/88888913/224/3221229479/147415924.smil
 #EXTINF:-1 tvg-id="衢州新闻" tvg-name="衢州新闻" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/衢州新闻综合.png" group-title="本地",衢州新闻综合
 http://192.168.2.1:9527/udp/233.50.202.11:5140
 #EXTINF:-1 tvg-id="衢州公共" tvg-name="衢州公共" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/衢州公共.png" group-title="本地",衢州公共

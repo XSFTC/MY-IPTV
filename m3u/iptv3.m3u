@@ -99,16 +99,22 @@ http://192.168.2.1:9527/rtp/233.50.202.101:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.202.102:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/四川卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229046/10000100000000060000000004835838_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
 http://192.168.2.1:9527/rtp/233.50.202.109:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/天津卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228016/10000100000000060000000000794035_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视
+http://192.168.2.1:9527/rtp/233.50.202.124:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/辽宁卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229042/10000100000000060000000004835836_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视
+http://192.168.2.1:9527/rtp/233.50.202.121:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/江西卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229127/10000100000000060000000004835832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
+http://192.168.2.1:9527/rtp/233.50.202.123:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/重庆卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229061/10000100000000060000000004835834_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",重庆卫视
+http://192.168.2.1:9527/rtp/233.50.202.122:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/贵州卫视4K.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229044/10000100000000060000000004835835_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视
+http://192.168.2.1:9527/rtp/233.50.202.120:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/安徽卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228120/10000100000000060000000002242150_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",安徽卫视
 http://192.168.2.1:9527/rtp/233.50.201.113:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/天津卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228016/10000100000000060000000000794035_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视
-http://192.168.2.1:9527/rtp/233.50.201.104:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/河北卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229050/10000100000000060000000004836297_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",河北卫视
 http://192.168.2.1:9527/rtp/233.50.201.140:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/黑龙江卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228068/10000100000000060000000002242148_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",黑龙江卫视
 http://192.168.2.1:9527/rtp/233.50.201.115:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/辽宁卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229042/10000100000000060000000004835836_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",辽宁卫视
-http://192.168.2.1:9527/rtp/233.50.201.141:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/吉林卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229434/112299629.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",吉林卫视
 http://192.168.2.1:9527/rtp/233.50.200.164:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/东南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229040/10000100000000060000000004835831_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东南卫视
@@ -117,12 +123,6 @@ http://192.168.2.1:9527/rtp/233.50.201.146:5140?fcc=115.233.40.137:8027
 http://192.168.2.1:9527/rtp/233.50.201.144:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/湖北卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228102/10000100000000060000000002242149_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖北卫视
 http://192.168.2.1:9527/rtp/233.50.201.114:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/江西卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229127/10000100000000060000000004835832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
-http://192.168.2.1:9527/rtp/233.50.201.145:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/重庆卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229061/10000100000000060000000004835834_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",重庆卫视
-http://192.168.2.1:9527/rtp/233.50.201.143:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/贵州卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229044/10000100000000060000000004835835_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",贵州卫视
-http://192.168.2.1:9527/rtp/233.50.201.142:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/云南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229325/83511287.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",云南卫视
 http://192.168.2.1:9527/rtp/233.50.200.115:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/海南卫视.png" group-title="卫视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229432/112299684.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",海南卫视

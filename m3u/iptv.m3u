@@ -205,6 +205,16 @@ http://192.168.2.1:9527/rtp/233.50.202.101:5140
 http://192.168.2.1:9527/rtp/233.50.202.102:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/四川卫视4K.png" group-title="4K",四川卫视 4K
 http://192.168.2.1:9527/rtp/233.50.202.109:5140
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/天津卫视4K.png" group-title="4K",天津卫视 4K
+http://192.168.2.1:9527/rtp/233.50.202.124:5140
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/辽宁卫视4K.png" group-title="4K",辽宁卫视 4K
+http://192.168.2.1:9527/rtp/233.50.202.121:5140
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/江西卫视4K.png" group-title="4K",江西卫视 4K
+http://192.168.2.1:9527/rtp/233.50.202.123:5140
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/重庆卫视4K.png" group-title="4K",重庆卫视 4K
+http://192.168.2.1:9527/rtp/233.50.202.122:5140
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/贵州卫视4K.png" group-title="4K",贵州卫视 4K
+http://192.168.2.1:9527/rtp/233.50.202.120:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/多彩文体.png" group-title="4K",多彩文体 4K
 http://192.168.2.1:9527/rtp/233.50.200.52:5140
 #EXTINF:-1 tvg-id="百视通纪实" tvg-name="百视通纪实" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/BESTV4K.png" group-title="4K",BesTV-纪实
